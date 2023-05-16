@@ -17,7 +17,7 @@ public class AbbreviationsMain {
             }
 
             System.out.print(part);
-            System.out.print(" ");
+            System.out.print("");
         }
 
         System.out.println();
